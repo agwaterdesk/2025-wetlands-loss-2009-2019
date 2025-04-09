@@ -1,0 +1,14 @@
+[
+    {
+        "type": "Vegetated",
+        "loss": 345000
+    },
+    {
+        "type": "Non-Vegetated",
+        "loss": -453000
+    },
+    {
+        "type": "Total",
+        "loss": -132000
+    }
+]
